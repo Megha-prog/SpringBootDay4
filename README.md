@@ -1,3 +1,3 @@
 # SpringBootDay4
 
-Please see book.png for output view
+Please see post.png for output view
